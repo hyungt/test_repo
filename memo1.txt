@@ -3,3 +3,4 @@ git commit 연습
 git status 연습
 
 master 쪽에서 수정한 코드 코드 코드코드 코드 
+fix 에서 추가된 코드
