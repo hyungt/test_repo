@@ -1,3 +1,5 @@
 git init 연습
 git commit 연습
 git status 연습
+
+fix 에서 추가된 코드
